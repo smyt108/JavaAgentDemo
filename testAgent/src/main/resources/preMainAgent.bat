@@ -1,0 +1,1 @@
+java -javaagent:D:\workspace\debugDemo\testAgent\target\testAgent-0.0.1-SNAPSHOT.jar -jar D:\workspace\debugDemo\targetApp\target\targetApp-1.0-SNAPSHOT.jar

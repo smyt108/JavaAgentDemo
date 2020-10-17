@@ -1,0 +1,1 @@
+java -jar D:\workspace\debugDemo\targetApp\target\targetApp-1.0-SNAPSHOT.jar
